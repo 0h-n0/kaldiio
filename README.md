@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/0h-n0/kaldiio.svg?branch=master)](https://travis-ci.org/0h-n0/kaldiio)
 # Kaldiio
 A pure python module for reading and writing kaldi ark files
 
